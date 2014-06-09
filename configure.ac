@@ -1,5 +1,5 @@
 AC_INIT(foo,1.0.0)
-AM_INIT_AUTOMAKE([-Wall -Werror foreign subdir-objects])
+AM_INIT_AUTOMAKE([-Wall -Werror foreign subdir-objects serial-tests])
 
 AC_CONFIG_MACRO_DIR([m4])
 
